@@ -1,4 +1,4 @@
-# Hi, I'm Azad Saifi! 👋
+# Hi, I'm Azad Ali! 👋
 
 🚀 **Flutter Developer** | Passionate about building mobile applications with a great user experience.
 
